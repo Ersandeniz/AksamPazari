@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226427551554",
+    "project_id": "aksampazarrii",
+    "storage_bucket": "aksampazarrii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226427551554:android:b0498ea813c4a7a43c12db",
+        "android_client_info": {
+          "package_name": "com.example.aksampazarr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPoNysIr4idnaXWuH6Aun3WsxF1l8pnFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
